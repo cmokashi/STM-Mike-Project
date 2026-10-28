@@ -1,0 +1,8 @@
+.vs/
+**/bin/
+**/obj/
+Staffing-ui/node_modules/
+Staffing-ui/dist/
+.env
+.env.*
+!.env.example
